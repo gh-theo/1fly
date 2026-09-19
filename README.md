@@ -1,51 +1,99 @@
+<a id="1fly-vpn-review"></a>
+
 # 一翻云(1fly)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 一翻云(1fly)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
+[完整详情与最新套餐](https://eoht.net/serve/airport/1fly) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
 
-**最便宜的订阅有8元 60g/月(年付)。**
+一翻云（1fly）是同时提供自研客户端和通用订阅的机场服务，常见叫法包括“一翻云 VPN”“一翻云梯子”和“一翻云机场”。通用订阅可在兼容软件中使用代理节点；轻度用户可先看 ¥98 年付小包，需要更多流量时再比较月付档位、专线质量与解锁范围。
 
-**点击购买👉👉** [一翻云(1fly)VPN官网](https://eoht.net/serve/airport/1fly)
+> [!NOTE]
+> **30 秒看懂一翻云**
+>
+> - **最低门槛**：60GB/月年付版 ¥98，适合轻度使用或备用线路。
+> - **核心特点**：专线节点、自研客户端与通用订阅并存，可按使用习惯选择。
+> - **优惠与场景**：页面列有 9 折码；原生 IP 节点支持主流流媒体与 AI 服务。
+>
+> <a href="#1fly-vpn-plans">查看套餐与优惠</a> · <a href="#1fly-speed-test">查看测速与解锁</a> · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+>
 
-**当前可用的官方注册地址，稳定不跳转、不失效。**
+<a id="1fly-official-website"></a>
 
-## 一翻云(1fly)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
+## 一翻云(1fly)VPN官网与优惠注册入口
 
-**不做订阅阅后即焚!!放心使用**
+**年付版 ¥98，60GB/月，折合约 ¥8.17/月。**
 
-**一翻云(1fly)** VPN企业级专线架构，低延迟稳定传输，全节点支持 海外软件，AI工具，晚高峰依旧流畅，4K 视频秒开不卡顿，自研客户端同时也支持主流第三方软件 Clash/小火箭等，解锁Netflix、Disney+、HBO Max等主流流媒体，适用于出国服务、流媒体加速以及个人和企业定制化解决方案，保障连接安全稳定，畅享高速体验。
+[立即购买一翻云套餐](https://eoht.net/serve/airport/1fly)
 
-- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等等
-- 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
-- **全局负载均衡、动态加速**
-- 晚高峰不限速，敏感期间不影响使用
-- 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
-- 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
+**本页汇总一翻云(1fly)机场推广注册入口、套餐价格、优惠码与测速记录；购买前请以结算页信息为准。**
 
-## 一翻云(1fly)VPN价格与套餐对比（性价比分析｜新手怎么选）
+<a id="1fly-airport-overview"></a>
 
-- **9折折扣码**:1FLYYUN
-- 季付**95**折/半年付**9**折/年付**85**折/2年付**8**折/3年付**7**折 配合折扣码折上折，最高可达**48**折
-- **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**舒享版 / 尊享版**。
+## 一翻云(1fly)VPN怎么样？线路特点、流媒体与适用人群
 
-**支付方式** 支付宝微信支付USDT
+**一翻云(1fly)** 提供专线节点、自研客户端和通用订阅，公开套餐从 60GB 年付版到 1.2TB 极致版。页面将全局负载均衡、动态加速与晚高峰不限速列为线路保障，本页另有高峰期测速供购买前对照。
 
-|  套餐类型  | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                    套餐购买                                                     |
-| :--------: | :------: | :--: | :--: | :----: | :--: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-| **年付版** | **60G**  |  -   |  -   |   -    | ¥98  |  无限制  | [立即购买](https://eoht.net/serve/airport/1fly) |
-| **轻享版** | **150G** | ¥20  | ¥55  |  ¥98   | ¥168 |  无限制  | [立即购买](https://eoht.net/serve/airport/1fly) |
-| **舒享版** | **350G** | ¥35  | ¥98  |  ¥178  | ¥298 |  无限制  | [立即购买](https://eoht.net/serve/airport/1fly) |
-| **尊享版** | **600G** | ¥55  | ¥155 |  ¥288  | ¥498 |  无限制  | [立即购买](https://eoht.net/serve/airport/1fly) |
-| **极致版** | **1.2T** | ¥95  | ¥268 |  ¥498  | ¥888 |  无限制  | [立即购买](https://eoht.net/serve/airport/1fly) |
+- 自研客户端适合快速登录，通用订阅兼容 **Clash、Sing-box、v2rayN、Shadowrocket**；
+- 原生 IP 节点支持 **Netflix、Disney+、HBO Max、YouTube、Spotify、Hulu** 等流媒体；
+- 可用于 **ChatGPT、Copilot、Gemini、TikTok** 等服务；
+- 节点覆盖香港、台湾、日本、新加坡、美国、英国及其他页面所列地区。
 
-## 一翻云(1fly)VPN真实测速图（高峰期表现实测）
+<a id="1fly-vpn-plans"></a>
 
-完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/1fly)
+## 一翻云(1fly)VPN套餐价格、优惠与选择建议
 
-- [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
-- [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
-- [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
-- [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
-- [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+> [!TIP]
+>
+> - **9折折扣码**：`1FLYYUN`
+> - 季付**95**折/年付**85**折/2年付**8**折/3年付**7**折，配合折扣码后的实时价格以结算页为准
+> - **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**舒享版 / 尊享版**。
+>
 
-> **免责声明**
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+**支付方式** 支付宝 / 微信支付 / USDT
+
+|  套餐类型  | 流量/月  | 月付 | 季付 | 年付 |                                                    套餐购买                                                     |
+|:----------:|:--------:|:----:|:----:|:----:|:---------------------------------------------------------------------------------------------------------------:|
+| **年付版** | **60G**  |  -   |  -   | ¥98  | [立即购买](https://eoht.net/serve/airport/1fly) |
+| **轻享版** | **150G** | ¥20  | ¥55  | ¥168 | [立即购买](https://eoht.net/serve/airport/1fly) |
+| **舒享版** | **350G** | ¥35  | ¥98  | ¥298 | [立即购买](https://eoht.net/serve/airport/1fly) |
+| **尊享版** | **600G** | ¥55  | ¥155 | ¥498 | [立即购买](https://eoht.net/serve/airport/1fly) |
+| **极致版** | **1.2T** | ¥95  | ¥268 | ¥888 | [立即购买](https://eoht.net/serve/airport/1fly) |
+
+<a id="1fly-speed-test"></a>
+
+## 一翻云(1fly)VPN线路、流媒体解锁与高峰测速
+
+![一翻云(1fly) 三网拓扑](https://i.eoht.net/airport/1fly_analyze.webp)
+
+![一翻云(1fly) 流媒体解锁图](https://i.eoht.net/airport/1fly_fulltest.webp)
+
+![一翻云(1fly) 上海微软测速图](https://i.eoht.net/airport/1fly_speed.webp)
+
+<a id="1fly-related-guides"></a>
+
+## 一翻云(1fly)VPN常见问题与继续比较
+
+<a id="1fly-minimum-price"></a>
+
+### 一翻云(1fly)VPN最低多少钱？
+
+当前页面列出的最低门槛是 60GB/月年付版 ¥98；年付需要一次支付全年费用。希望降低首次尝试成本时，可先核对结算页是否有更适合的月付方案。
+
+<a id="1fly-client-vs-subscription"></a>
+
+### 一翻云(1fly)VPN自研客户端和通用订阅怎么选？
+
+希望快速登录可先看自研客户端；已经熟悉 Clash、Sing-box、v2rayN 或 Shadowrocket，则可使用通用订阅。
+
+还可继续比较同样提供客户端方案的[闪跃](https://eoht.net/serve/airport/flashleap)和[Sogo云](https://eoht.net/serve/airport/sogo)，或查看[线路选择指南](https://eoht.net/serve/routes/selection)、[流媒体观影指南](https://eoht.net/streaming/summary)、[AI 使用指南](https://eoht.net/ai/summary)及[客户端教程汇总](https://eoht.net/serve/antiwall/summary)。
+
+[立即购买一翻云套餐](https://eoht.net/serve/airport/1fly)
+
+---
+
+- [机场套餐与评测汇总](https://eoht.net/serve/airport/summary)
+- [科学上网客户端使用教程](https://eoht.net/serve/antiwall/summary)
+- [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
+- [AI 工具使用指南](https://eoht.net/ai/summary)
+- [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+> 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
