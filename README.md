@@ -2,7 +2,7 @@
 
 # 一翻云(1fly)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/1fly) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/1fly) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 一翻云（1fly）是同时提供自研客户端和通用订阅的机场服务，常见叫法包括“一翻云 VPN”“一翻云梯子”和“一翻云机场”。通用订阅可在兼容软件中使用代理节点；轻度用户可先看 ¥98 年付小包，需要更多流量时再比较月付档位、专线质量与解锁范围。
 
